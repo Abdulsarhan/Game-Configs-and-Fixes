@@ -1,0 +1,6 @@
+Windows:
+Copy-paste (or move) the custom folder to C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf
+Move the overrides folder and config.cfg to C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg
+
+Linux/Macos:
+IDK, man. Just figure it out.
