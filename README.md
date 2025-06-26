@@ -1,2 +1,2 @@
-# Game Configs.
-Configuration files for various games that I like.
+# Game Configs and Fixes.
+Various config files and fixes for games that I like.
