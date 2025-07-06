@@ -1,2 +1,7 @@
 June 6, 2025:
 Added Team Fortress 2 config, although it's not done yet.
+
+July 6, 2025: 
+
+Added null cancelling movement, and some loadout binds.
+Added some graphical overrides for mastercomfig.
